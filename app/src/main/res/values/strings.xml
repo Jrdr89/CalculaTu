@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculaTu</string>
+    <string name="btnHora">Hora fin</string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="etHora">Hora</string>
+    <string name="etseparador">:</string>
+
+    <string name="tvHorasPrograma">Horas Programa</string>
+</resources>
